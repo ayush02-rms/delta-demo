@@ -2,6 +2,6 @@
 This is a demo for git and git hub class.
 # teacher
 ayush dangi
- # professor
+ # ofessor
 i am from dewas
 
